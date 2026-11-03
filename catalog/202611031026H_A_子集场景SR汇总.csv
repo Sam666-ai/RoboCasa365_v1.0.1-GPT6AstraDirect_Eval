@@ -1,0 +1,4 @@
+subset,scene,tasks,accepted_records,native_complete,success,native_failure,early_stop,SR,mixed_effort
+composite_unseen,pretrain,11,55,55,26,29,0,0.4727272727272727,True
+composite_seen,target,16,57,55,10,45,2,0.18181818181818182,False
+composite_unseen,target,16,80,80,37,43,0,0.4625,False

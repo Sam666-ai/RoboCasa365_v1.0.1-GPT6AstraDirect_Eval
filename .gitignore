@@ -1,0 +1,10 @@
+# Large rollout payloads belong in GitHub Releases.
+archives/
+work/
+data/
+*.tar.zst.part*
+*.tar.zst
+*.zip
+__pycache__/
+*.pyc
+.DS_Store

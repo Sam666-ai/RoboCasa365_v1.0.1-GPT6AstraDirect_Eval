@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "files": 245761,
+  "cross_group_duplicate_paths": 0,
+  "accepted_record_paths_resolve": 192,
+  "standalone_seed_columns": false
+}

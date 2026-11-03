@@ -1,0 +1,76 @@
+{
+  "status": "PASS",
+  "groups": {
+    "link_closure": {
+      "status": "PASS",
+      "group": "link_closure",
+      "files": 1730,
+      "uncompressed_bytes": 234530706,
+      "parts": 1,
+      "all_public_file_SHA256": true,
+      "all_part_SHA256": true,
+      "zstd_checksum": true,
+      "portable_regular_entries": true,
+      "source_gaps_are_separately_documented": true,
+      "wall_seconds": 0.5466370582580566,
+      "time_bjt": "2026-11-03T10:48:12.493088+08:00"
+    },
+    "references_and_early_diagnostics": {
+      "status": "PASS",
+      "group": "references_and_early_diagnostics",
+      "files": 2945,
+      "uncompressed_bytes": 4683528424,
+      "parts": 3,
+      "all_public_file_SHA256": true,
+      "all_part_SHA256": true,
+      "zstd_checksum": true,
+      "portable_regular_entries": true,
+      "source_gaps_are_separately_documented": true,
+      "wall_seconds": 12.968011617660522,
+      "time_bjt": "2026-11-03T10:53:46.792756+08:00"
+    },
+    "CompositeUnseen_pretrain": {
+      "status": "PASS",
+      "group": "CompositeUnseen_pretrain",
+      "files": 69502,
+      "uncompressed_bytes": 18570921033,
+      "parts": 6,
+      "all_public_file_SHA256": true,
+      "all_part_SHA256": true,
+      "zstd_checksum": true,
+      "portable_regular_entries": true,
+      "source_gaps_are_separately_documented": true,
+      "wall_seconds": 42.34451985359192,
+      "time_bjt": "2026-11-03T10:53:56.021247+08:00"
+    },
+    "CompositeUnseen_target": {
+      "status": "PASS",
+      "group": "CompositeUnseen_target",
+      "files": 90543,
+      "uncompressed_bytes": 24266050069,
+      "parts": 8,
+      "all_public_file_SHA256": true,
+      "all_part_SHA256": true,
+      "zstd_checksum": true,
+      "portable_regular_entries": true,
+      "source_gaps_are_separately_documented": true,
+      "wall_seconds": 45.51850342750549,
+      "time_bjt": "2026-11-03T10:56:50.253013+08:00"
+    },
+    "CompositeSeen_target": {
+      "status": "PASS",
+      "group": "CompositeSeen_target",
+      "files": 81041,
+      "uncompressed_bytes": 26774935759,
+      "parts": 8,
+      "all_public_file_SHA256": true,
+      "all_part_SHA256": true,
+      "zstd_checksum": true,
+      "portable_regular_entries": true,
+      "source_gaps_are_separately_documented": true,
+      "wall_seconds": 47.6607768535614,
+      "time_bjt": "2026-11-03T10:58:53.070218+08:00"
+    }
+  },
+  "wall_seconds": 643.8096771240234
+}

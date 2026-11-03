@@ -1,0 +1,29 @@
+{
+  "foreign_references_only": [
+    {
+      "subset": "atomic_seen",
+      "scene": "pretrain",
+      "rows": 65,
+      "success": 38,
+      "raw_rollouts": "NOT_FOUND_ON_LOCAL_HOST"
+    },
+    {
+      "subset": "composite_seen",
+      "scene": "pretrain",
+      "rows": 55,
+      "success": 16,
+      "raw_rollouts": "NOT_FOUND_ON_LOCAL_HOST"
+    }
+  ],
+  "no_local_atomic_target_direct_claim": true,
+  "excluded_categories": [
+    "authentication/credentials",
+    "Codex internal runtime SQLite/cache",
+    "temporary files/locks",
+    "downloadable model/mesh/texture assets"
+  ],
+  "trajectory_logs_images_actions_costs_preserved": true,
+  "symlink_count": 45,
+  "symlink_role": "Resolve necessary record targets and document external dependencies; no unclosed absolute links in tar payload",
+  "issues": []
+}

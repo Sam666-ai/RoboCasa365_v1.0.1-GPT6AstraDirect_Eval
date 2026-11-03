@@ -1,0 +1,276 @@
+{
+  "archive_id": "202611031026H_A_GPT6AstraDirect全子集轨迹归档",
+  "created_bjt": "2026-11-03T10:59:22.147298+08:00",
+  "status": "PASS",
+  "groups": [
+    {
+      "group": "CompositeUnseen_pretrain",
+      "files": 69502,
+      "input_bytes": 18570921033,
+      "compressed_bytes": 11948056532,
+      "parts": [
+        {
+          "name": "202611031026H_A_GPT6AstraDirect_CompositeUnseen_pretrain.tar.zst.part001",
+          "bytes": 1992294400,
+          "sha256": "5530e2d5ed6b74552667efa2613ccd82deeaadb43f713f22770eecb64e8e9628"
+        },
+        {
+          "name": "202611031026H_A_GPT6AstraDirect_CompositeUnseen_pretrain.tar.zst.part002",
+          "bytes": 1992294400,
+          "sha256": "98f00718825ceceab0c07c4ecb9df509a9b42fe3f0d5cce31842a387178f4060"
+        },
+        {
+          "name": "202611031026H_A_GPT6AstraDirect_CompositeUnseen_pretrain.tar.zst.part003",
+          "bytes": 1992294400,
+          "sha256": "7194aab8598ea945cae67114540feb5b2c6c5a6c9ed901fe848bb6845f2d4ea7"
+        },
+        {
+          "name": "202611031026H_A_GPT6AstraDirect_CompositeUnseen_pretrain.tar.zst.part004",
+          "bytes": 1992294400,
+          "sha256": "a1530bcbad5d9e3ff9e21202ee6dd84f195af44c95a33fc22ec702dea035f45c"
+        },
+        {
+          "name": "202611031026H_A_GPT6AstraDirect_CompositeUnseen_pretrain.tar.zst.part005",
+          "bytes": 1992294400,
+          "sha256": "8263d5219a167c8fe91aa94019640ddb0844125ce94155115bd516a3b9787ef6"
+        },
+        {
+          "name": "202611031026H_A_GPT6AstraDirect_CompositeUnseen_pretrain.tar.zst.part006",
+          "bytes": 1986584532,
+          "sha256": "71d2e1603a4c801d4b0545c439fc25b46e70ac6e7970a87084ce6c1526a81aa0"
+        }
+      ],
+      "redactions": {
+        "sensitive_assignment": 154
+      },
+      "manifest": "manifests/202611031026H_A_CompositeUnseen_pretrain.files.jsonl.gz",
+      "manifest_sha256": "2a78fa2cf990eb93eca6c8f9c177b03ace08be128453284bffafc7ae0c5d1519",
+      "verification": {
+        "status": "PASS",
+        "group": "CompositeUnseen_pretrain",
+        "files": 69502,
+        "uncompressed_bytes": 18570921033,
+        "parts": 6,
+        "all_public_file_SHA256": true,
+        "all_part_SHA256": true,
+        "zstd_checksum": true,
+        "portable_regular_entries": true,
+        "source_gaps_are_separately_documented": true,
+        "wall_seconds": 42.34451985359192,
+        "time_bjt": "2026-11-03T10:53:56.021247+08:00"
+      }
+    },
+    {
+      "group": "CompositeSeen_target",
+      "files": 81041,
+      "input_bytes": 26774935759,
+      "compressed_bytes": 14392838383,
+      "parts": [
+        {
+          "name": "202611031026H_A_GPT6AstraDirect_CompositeSeen_target.tar.zst.part001",
+          "bytes": 1992294400,
+          "sha256": "092b0b40ac2744d10d098ddbb712d6744636aa3a22056bd89b9cbbcf02e91627"
+        },
+        {
+          "name": "202611031026H_A_GPT6AstraDirect_CompositeSeen_target.tar.zst.part002",
+          "bytes": 1992294400,
+          "sha256": "b49b533b0ffdb75b6e7f0627477753490cef9bd8b63516d47ab9c4e31ea46f57"
+        },
+        {
+          "name": "202611031026H_A_GPT6AstraDirect_CompositeSeen_target.tar.zst.part003",
+          "bytes": 1992294400,
+          "sha256": "10bfa7e5c13b64426e009e391d357d9b4bdec39b8c0f00ab452e1663586cf207"
+        },
+        {
+          "name": "202611031026H_A_GPT6AstraDirect_CompositeSeen_target.tar.zst.part004",
+          "bytes": 1992294400,
+          "sha256": "179d78a2472372e1bacedd5def51be888d7422d90d91ee49e6abb4dd69b87590"
+        },
+        {
+          "name": "202611031026H_A_GPT6AstraDirect_CompositeSeen_target.tar.zst.part005",
+          "bytes": 1992294400,
+          "sha256": "7f3b0fea9c453833966ee604e7125b699c0e28ff6d79695c016a1ce70d133dab"
+        },
+        {
+          "name": "202611031026H_A_GPT6AstraDirect_CompositeSeen_target.tar.zst.part006",
+          "bytes": 1992294400,
+          "sha256": "81e5ce37cfc8abe5671d7f2255a369f4b206ef7451f7e8dc48dff225bcb85b7b"
+        },
+        {
+          "name": "202611031026H_A_GPT6AstraDirect_CompositeSeen_target.tar.zst.part007",
+          "bytes": 1992294400,
+          "sha256": "0ca68a08bbd53742f59fa0c94768a79a27aca3f16de39ac419785b74785c3b74"
+        },
+        {
+          "name": "202611031026H_A_GPT6AstraDirect_CompositeSeen_target.tar.zst.part008",
+          "bytes": 446777583,
+          "sha256": "8dfe2469f8e96553885e1f8c9325704e2e406c99f363151d65e36901e4ea2ab9"
+        }
+      ],
+      "redactions": {
+        "sensitive_assignment": 254
+      },
+      "manifest": "manifests/202611031026H_A_CompositeSeen_target.files.jsonl.gz",
+      "manifest_sha256": "1a16b39af9a2f3decf2df467173ecc0c89b1779573e4efbf3d4604b25ff8c253",
+      "verification": {
+        "status": "PASS",
+        "group": "CompositeSeen_target",
+        "files": 81041,
+        "uncompressed_bytes": 26774935759,
+        "parts": 8,
+        "all_public_file_SHA256": true,
+        "all_part_SHA256": true,
+        "zstd_checksum": true,
+        "portable_regular_entries": true,
+        "source_gaps_are_separately_documented": true,
+        "wall_seconds": 47.6607768535614,
+        "time_bjt": "2026-11-03T10:58:53.070218+08:00"
+      }
+    },
+    {
+      "group": "CompositeUnseen_target",
+      "files": 90543,
+      "input_bytes": 24266050069,
+      "compressed_bytes": 15258179142,
+      "parts": [
+        {
+          "name": "202611031026H_A_GPT6AstraDirect_CompositeUnseen_target.tar.zst.part001",
+          "bytes": 1992294400,
+          "sha256": "ef5054bf214ceb51331c6052ae6a4cc505c1cb40384f0a93921d36b67b09fafb"
+        },
+        {
+          "name": "202611031026H_A_GPT6AstraDirect_CompositeUnseen_target.tar.zst.part002",
+          "bytes": 1992294400,
+          "sha256": "f2094c7bcb36ada79f3712eb98f51628858ace07f7fe09d4e0bfb48650151ef1"
+        },
+        {
+          "name": "202611031026H_A_GPT6AstraDirect_CompositeUnseen_target.tar.zst.part003",
+          "bytes": 1992294400,
+          "sha256": "2332a9ef72c75fed1c3609e8a396777eb0fa66a9a364f1f9c2e4a8f69a7c2603"
+        },
+        {
+          "name": "202611031026H_A_GPT6AstraDirect_CompositeUnseen_target.tar.zst.part004",
+          "bytes": 1992294400,
+          "sha256": "c8aa69a457aacf5db8ca7e61cb70a05d1fb3ce26cebce3df22e30b3a0532cb6c"
+        },
+        {
+          "name": "202611031026H_A_GPT6AstraDirect_CompositeUnseen_target.tar.zst.part005",
+          "bytes": 1992294400,
+          "sha256": "7358462d9c0978a90f8e666e923690429fa784514ed7d6ab902a3a774948dbdf"
+        },
+        {
+          "name": "202611031026H_A_GPT6AstraDirect_CompositeUnseen_target.tar.zst.part006",
+          "bytes": 1992294400,
+          "sha256": "a7db95e1e9418650795de568dac76d213f3198249f852df27add94c26d791cd9"
+        },
+        {
+          "name": "202611031026H_A_GPT6AstraDirect_CompositeUnseen_target.tar.zst.part007",
+          "bytes": 1992294400,
+          "sha256": "d1aa779a58d83ddee1204668b2e6853d6385e6f71fdebe9f6dc78d88bd2b6b4e"
+        },
+        {
+          "name": "202611031026H_A_GPT6AstraDirect_CompositeUnseen_target.tar.zst.part008",
+          "bytes": 1312118342,
+          "sha256": "0805bc28aa886f64869cae04458fbab6e2076641e58779c4f5d972840a3ca9cb"
+        }
+      ],
+      "redactions": {
+        "sensitive_assignment": 236
+      },
+      "manifest": "manifests/202611031026H_A_CompositeUnseen_target.files.jsonl.gz",
+      "manifest_sha256": "13d375085368b8c8e7d2e1e5e1de586266f2f24546f62af1766b3a3256251902",
+      "verification": {
+        "status": "PASS",
+        "group": "CompositeUnseen_target",
+        "files": 90543,
+        "uncompressed_bytes": 24266050069,
+        "parts": 8,
+        "all_public_file_SHA256": true,
+        "all_part_SHA256": true,
+        "zstd_checksum": true,
+        "portable_regular_entries": true,
+        "source_gaps_are_separately_documented": true,
+        "wall_seconds": 45.51850342750549,
+        "time_bjt": "2026-11-03T10:56:50.253013+08:00"
+      }
+    },
+    {
+      "group": "references_and_early_diagnostics",
+      "files": 2945,
+      "input_bytes": 4683528424,
+      "compressed_bytes": 4223798391,
+      "parts": [
+        {
+          "name": "202611031026H_A_GPT6AstraDirect_references_and_early_diagnostics.tar.zst.part001",
+          "bytes": 1992294400,
+          "sha256": "ad57937aca3b5312ac91c25e3c19631825d896c9acb9c66871bd29f150b7cffb"
+        },
+        {
+          "name": "202611031026H_A_GPT6AstraDirect_references_and_early_diagnostics.tar.zst.part002",
+          "bytes": 1992294400,
+          "sha256": "c5adb7db4a1928e2e11f7835d1eb99589095e031bf98de6f48a0d0ebbb3aee83"
+        },
+        {
+          "name": "202611031026H_A_GPT6AstraDirect_references_and_early_diagnostics.tar.zst.part003",
+          "bytes": 239209591,
+          "sha256": "9af28e99d41eaadd4532882be48e1c4ee97e17609ef47ea06462618a4c68e11b"
+        }
+      ],
+      "redactions": {
+        "sensitive_assignment": 2,
+        "email": 2
+      },
+      "manifest": "manifests/202611031026H_A_references_and_early_diagnostics.files.jsonl.gz",
+      "manifest_sha256": "9a6eb9f638cda2ea7ecfba6c152f0dffe18559c37888edb815c9121efba47913",
+      "verification": {
+        "status": "PASS",
+        "group": "references_and_early_diagnostics",
+        "files": 2945,
+        "uncompressed_bytes": 4683528424,
+        "parts": 3,
+        "all_public_file_SHA256": true,
+        "all_part_SHA256": true,
+        "zstd_checksum": true,
+        "portable_regular_entries": true,
+        "source_gaps_are_separately_documented": true,
+        "wall_seconds": 12.968011617660522,
+        "time_bjt": "2026-11-03T10:53:46.792756+08:00"
+      }
+    },
+    {
+      "group": "link_closure",
+      "files": 1730,
+      "input_bytes": 234530706,
+      "compressed_bytes": 228397308,
+      "parts": [
+        {
+          "name": "202611031026H_A_GPT6AstraDirect_link_closure.tar.zst.part001",
+          "bytes": 228397308,
+          "sha256": "57a595dc90ce9cdb263a511b77c8684a01aef37ee2b3de9f32d6ba69e449a259"
+        }
+      ],
+      "redactions": {},
+      "manifest": "manifests/202611031026H_A_link_closure.files.jsonl.gz",
+      "manifest_sha256": "58fa9cdafb47cd8445613fb76896e203f5aad0c4650487094fdfaff1150ff2d3",
+      "verification": {
+        "status": "PASS",
+        "group": "link_closure",
+        "files": 1730,
+        "uncompressed_bytes": 234530706,
+        "parts": 1,
+        "all_public_file_SHA256": true,
+        "all_part_SHA256": true,
+        "zstd_checksum": true,
+        "portable_regular_entries": true,
+        "source_gaps_are_separately_documented": true,
+        "wall_seconds": 0.5466370582580566,
+        "time_bjt": "2026-11-03T10:48:12.493088+08:00"
+      }
+    }
+  ],
+  "native_complete": 190,
+  "accepted_records": 192,
+  "attempt_result_records": 277,
+  "main_run_directories": 39,
+  "seed_policy": "No separately generated seed lists or per-seed comparison tables; original trajectory paths and metadata preserved."
+}

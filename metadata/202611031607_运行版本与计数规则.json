@@ -1,0 +1,24 @@
+{
+  "versions": {
+    "atomic_seen_pretrain": {
+      "robocasa=1.0.0": 65,
+      "robosuite=1.5.2": 65,
+      "mujoco=3.3.1": 65
+    },
+    "composite_seen_pretrain": {
+      "robocasa=1.0.0": 55,
+      "robosuite=1.5.2": 55,
+      "mujoco=3.3.1": 55
+    },
+    "composite_seen_target": {
+      "robocasa=1.0.0": 54,
+      "robosuite=1.5.2": 54,
+      "mujoco=3.3.1": 54
+    }
+  },
+  "dataset_scope": "Only locally available accepted Direct episodes with full native action ACK and checker timelines and a success/horizon terminal result. Original visual observations are included wherever retained.",
+  "primary_SR": "successes / complete_native_episodes; this is the published complete-trajectory subset, not a redefinition of the original campaign contract.",
+  "original_contract_SR": "The original target campaign accepted 56 policy outcomes including two PolicyStop failures. Its 10/56 is retained as a scope note, not replaced by the 10/54 complete-native subset.",
+  "deduplication": "Mirror copies and successive accepted snapshots do not create new evaluation episodes.",
+  "not_redistributed": "Other-host historical summaries; literature results; engineering/interrupted/infrastructure attempts; PolicyStop trajectories; raw transport streams, databases, credentials, deployment configuration, weights and simulator assets."
+}

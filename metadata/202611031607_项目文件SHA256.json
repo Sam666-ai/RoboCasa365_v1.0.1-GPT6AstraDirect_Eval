@@ -1,0 +1,152 @@
+[
+ {
+  "path": ".gitattributes",
+  "bytes": 8,
+  "sha256": "705fd4d6451a31d36b3df7de96f83f30ac976c9b4a6d1e51671d8e2f33e2d0da"
+ },
+ {
+  "path": ".gitignore",
+  "bytes": 165,
+  "sha256": "bd77561f0e376f608f615b59193c986601fc251a0d092b73e7ca2a188e543862"
+ },
+ {
+  "path": "Readme.md",
+  "bytes": 24818,
+  "sha256": "cc99270d59d6d0d4405e223d78057c0da21322667dabc832bd51b4ff87a8e24c"
+ },
+ {
+  "path": "catalog/202611031026_历史续跑目录状态.csv",
+  "bytes": 4249,
+  "sha256": "8e35f591721a5ffe58a64db2c6940f0d34c05642cd94f6c90ef21e360b007095"
+ },
+ {
+  "path": "catalog/202611031026_子集场景SR汇总.csv",
+  "bytes": 292,
+  "sha256": "7361c77b114295954d00eaefe12a324580e92f27903fcce11ece8f7a9e9a5bd3"
+ },
+ {
+  "path": "catalog/202611031026_来源缺口与排除范围.json",
+  "bytes": 815,
+  "sha256": "de02c89c6c9dc3e3340252250405ba6d3659f1e4a09867a026415c41e7254e6b"
+ },
+ {
+  "path": "catalog/202611031026_逐任务SR汇总.csv",
+  "bytes": 3150,
+  "sha256": "ee4be900d4c9fc9695e1378669a0155bbbf0aef2f2576bc0a6a0c6d5353e8036"
+ },
+ {
+  "path": "docs/202611031607_全部174回合完整结果.md",
+  "bytes": 26456,
+  "sha256": "ccbf4cb417accc1226026b48fe0c1e59cfaafe0bbc5758c78d19d3b6d6717632"
+ },
+ {
+  "path": "manifests/202611031026_CompositeSeen_target.files.jsonl.gz",
+  "bytes": 4227881,
+  "sha256": "1a16b39af9a2f3decf2df467173ecc0c89b1779573e4efbf3d4604b25ff8c253"
+ },
+ {
+  "path": "manifests/202611031026_CompositeUnseen_pretrain.files.jsonl.gz",
+  "bytes": 3665930,
+  "sha256": "2a78fa2cf990eb93eca6c8f9c177b03ace08be128453284bffafc7ae0c5d1519"
+ },
+ {
+  "path": "manifests/202611031026_CompositeUnseen_target.files.jsonl.gz",
+  "bytes": 4773598,
+  "sha256": "13d375085368b8c8e7d2e1e5e1de586266f2f24546f62af1766b3a3256251902"
+ },
+ {
+  "path": "manifests/202611031026_link_closure.files.jsonl.gz",
+  "bytes": 90557,
+  "sha256": "58fa9cdafb47cd8445613fb76896e203f5aad0c4650487094fdfaff1150ff2d3"
+ },
+ {
+  "path": "manifests/202611031026_references_and_early_diagnostics.files.jsonl.gz",
+  "bytes": 157749,
+  "sha256": "9a6eb9f638cda2ea7ecfba6c152f0dffe18559c37888edb815c9121efba47913"
+ },
+ {
+  "path": "metadata/202611031607_完整物理轨迹逐回合闭合验收.json",
+  "bytes": 27571,
+  "sha256": "28e30ee71e03c16e032dbba7733e8a3c2b5d5a0c9a71a5717ff50f56fdbeacf0"
+ },
+ {
+  "path": "metadata/202611031607_本地完整结果覆盖与去重确认.json",
+  "bytes": 701,
+  "sha256": "37277d70cb93887b6d527b7047497f6b6ff25336efb60b7299f858ba8d0ef1ff"
+ },
+ {
+  "path": "metadata/202611031607_轨迹分包索引.json",
+  "bytes": 2376,
+  "sha256": "eb6db604592074c070af65b0b1d0037dc54884e7be4c4f693ed61656bd5ff368"
+ },
+ {
+  "path": "metadata/202611031607_轨迹文件SHA256索引.csv",
+  "bytes": 13801311,
+  "sha256": "60b8079a649c6025b4891bb61de8424bd5b4c36717c9d0297bb181c2cb04a163"
+ },
+ {
+  "path": "metadata/202611031607_运行版本与计数规则.json",
+  "bytes": 1340,
+  "sha256": "4d356631333a93b119be978f055718c75bd1f2b9d7cd4e25b54d2b8dc6fd9e35"
+ },
+ {
+  "path": "metadata/202611031607_逐回合轨迹与图像可用性.csv",
+  "bytes": 22237,
+  "sha256": "2ba3bab4fc7d36b2cefdf684b1c4a250526b06d425c6029816fa668338fcd39f"
+ },
+ {
+  "path": "publication_index.json",
+  "bytes": 10834,
+  "sha256": "8eab351fe615221edc237de570493b0fdc24daabc98c2eeec0b61195e9183bb3"
+ },
+ {
+  "path": "reports/202611031026_完整分卷与逐文件校验回执.json",
+  "bytes": 2423,
+  "sha256": "dd1edc53c4484d2a7087da60056d2593e3972a3a8819bf8c1f7b8fd752c7ed08"
+ },
+ {
+  "path": "reports/202611031026_目录索引引用验收.json",
+  "bytes": 154,
+  "sha256": "a8b352e87080d42185faa387c4a89151c80dcc0dedbf8823ebaa8dad0bf13ff5"
+ },
+ {
+  "path": "reports/202611031026_链接闭包与原件缺口.json",
+  "bytes": 12151,
+  "sha256": "173d535dcdc59b2a6f4ff6fe29f53e4ea163d329db6f1df59a22b83631e30aa1"
+ },
+ {
+  "path": "scripts/202611031607_校验下载与安全解压.py",
+  "bytes": 2763,
+  "sha256": "366e6dec1a2136333d7f3b82ec761580e7537f75cc172fcc8299c703dd435bc2"
+ },
+ {
+  "path": "scripts/202611031607_重算成功率.py",
+  "bytes": 1461,
+  "sha256": "52f4409796bd0d7f3681905a0ce0529ee2f679c1c43f813effccabb1415de74d"
+ },
+ {
+  "path": "statistics/202611031607_分子集场景成功率.csv",
+  "bytes": 710,
+  "sha256": "b8181bb4bb12cfaa2893eb057e597af0e88ee221eb83594fc47f5c47a374659d"
+ },
+ {
+  "path": "statistics/202611031607_分子集场景成功率.json",
+  "bytes": 1679,
+  "sha256": "0eda94c456ab4c15d47255a0b694d53130e07dd8b2b9867552804e094a24adc5"
+ },
+ {
+  "path": "statistics/202611031607_逐任务成功率.csv",
+  "bytes": 3940,
+  "sha256": "c549bd22a655d8e501e4d85d5509fa4c866e9a24bd28b4c0696eac17cb72287a"
+ },
+ {
+  "path": "statistics/202611031607_逐回合结果索引.csv",
+  "bytes": 46556,
+  "sha256": "084b322bab4c1743a8d02beffb2d9241311586bd4abcf1b8330ca7a9b23f607c"
+ },
+ {
+  "path": "tools/verify_archive.py",
+  "bytes": 4011,
+  "sha256": "771630eb39e143908477521291494c25eed9ac0f5bd61849f85b1fa856327278"
+ }
+]

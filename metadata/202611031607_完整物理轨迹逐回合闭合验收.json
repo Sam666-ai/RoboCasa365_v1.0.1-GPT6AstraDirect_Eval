@@ -1,0 +1,1220 @@
+[
+  {
+    "episode_id": "episode_0115",
+    "ACK_steps": 900,
+    "ACK_last_success": false,
+    "checker_records": 901,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0116",
+    "ACK_steps": 374,
+    "ACK_last_success": true,
+    "checker_records": 375,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0117",
+    "ACK_steps": 505,
+    "ACK_last_success": true,
+    "checker_records": 506,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0118",
+    "ACK_steps": 143,
+    "ACK_last_success": true,
+    "checker_records": 144,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0119",
+    "ACK_steps": 304,
+    "ACK_last_success": true,
+    "checker_records": 305,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0120",
+    "ACK_steps": 314,
+    "ACK_last_success": true,
+    "checker_records": 315,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0121",
+    "ACK_steps": 450,
+    "ACK_last_success": false,
+    "checker_records": 451,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0122",
+    "ACK_steps": 450,
+    "ACK_last_success": false,
+    "checker_records": 451,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0123",
+    "ACK_steps": 225,
+    "ACK_last_success": true,
+    "checker_records": 226,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0124",
+    "ACK_steps": 285,
+    "ACK_last_success": true,
+    "checker_records": 286,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0125",
+    "ACK_steps": 428,
+    "ACK_last_success": true,
+    "checker_records": 429,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0126",
+    "ACK_steps": 1050,
+    "ACK_last_success": false,
+    "checker_records": 1051,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0127",
+    "ACK_steps": 579,
+    "ACK_last_success": true,
+    "checker_records": 580,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0128",
+    "ACK_steps": 750,
+    "ACK_last_success": false,
+    "checker_records": 751,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0129",
+    "ACK_steps": 482,
+    "ACK_last_success": true,
+    "checker_records": 483,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0130",
+    "ACK_steps": 532,
+    "ACK_last_success": true,
+    "checker_records": 533,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0132",
+    "ACK_steps": 377,
+    "ACK_last_success": true,
+    "checker_records": 378,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0133",
+    "ACK_steps": 249,
+    "ACK_last_success": true,
+    "checker_records": 250,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0134",
+    "ACK_steps": 224,
+    "ACK_last_success": true,
+    "checker_records": 225,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0135",
+    "ACK_steps": 600,
+    "ACK_last_success": false,
+    "checker_records": 601,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0136",
+    "ACK_steps": 450,
+    "ACK_last_success": false,
+    "checker_records": 451,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0137",
+    "ACK_steps": 450,
+    "ACK_last_success": false,
+    "checker_records": 451,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0138",
+    "ACK_steps": 393,
+    "ACK_last_success": true,
+    "checker_records": 394,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0139",
+    "ACK_steps": 750,
+    "ACK_last_success": false,
+    "checker_records": 751,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0140",
+    "ACK_steps": 381,
+    "ACK_last_success": true,
+    "checker_records": 382,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0141",
+    "ACK_steps": 426,
+    "ACK_last_success": true,
+    "checker_records": 427,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0142",
+    "ACK_steps": 284,
+    "ACK_last_success": true,
+    "checker_records": 285,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0143",
+    "ACK_steps": 450,
+    "ACK_last_success": false,
+    "checker_records": 451,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0144",
+    "ACK_steps": 450,
+    "ACK_last_success": false,
+    "checker_records": 451,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0145",
+    "ACK_steps": 564,
+    "ACK_last_success": true,
+    "checker_records": 565,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0146",
+    "ACK_steps": 600,
+    "ACK_last_success": false,
+    "checker_records": 601,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0147",
+    "ACK_steps": 600,
+    "ACK_last_success": false,
+    "checker_records": 601,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0148",
+    "ACK_steps": 358,
+    "ACK_last_success": true,
+    "checker_records": 359,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0149",
+    "ACK_steps": 900,
+    "ACK_last_success": false,
+    "checker_records": 901,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0150",
+    "ACK_steps": 584,
+    "ACK_last_success": true,
+    "checker_records": 585,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0151",
+    "ACK_steps": 655,
+    "ACK_last_success": true,
+    "checker_records": 656,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0152",
+    "ACK_steps": 554,
+    "ACK_last_success": true,
+    "checker_records": 555,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0153",
+    "ACK_steps": 450,
+    "ACK_last_success": false,
+    "checker_records": 451,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0154",
+    "ACK_steps": 450,
+    "ACK_last_success": false,
+    "checker_records": 451,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0155",
+    "ACK_steps": 201,
+    "ACK_last_success": true,
+    "checker_records": 202,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0157",
+    "ACK_steps": 433,
+    "ACK_last_success": true,
+    "checker_records": 434,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0158",
+    "ACK_steps": 325,
+    "ACK_last_success": true,
+    "checker_records": 326,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0159",
+    "ACK_steps": 1050,
+    "ACK_last_success": false,
+    "checker_records": 1051,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0160",
+    "ACK_steps": 696,
+    "ACK_last_success": true,
+    "checker_records": 697,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0161",
+    "ACK_steps": 643,
+    "ACK_last_success": true,
+    "checker_records": 644,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0162",
+    "ACK_steps": 750,
+    "ACK_last_success": false,
+    "checker_records": 751,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0163",
+    "ACK_steps": 642,
+    "ACK_last_success": true,
+    "checker_records": 643,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0164",
+    "ACK_steps": 442,
+    "ACK_last_success": true,
+    "checker_records": 443,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0165",
+    "ACK_steps": 600,
+    "ACK_last_success": false,
+    "checker_records": 601,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0166",
+    "ACK_steps": 464,
+    "ACK_last_success": true,
+    "checker_records": 465,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0167",
+    "ACK_steps": 494,
+    "ACK_last_success": true,
+    "checker_records": 495,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0168",
+    "ACK_steps": 236,
+    "ACK_last_success": true,
+    "checker_records": 237,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0169",
+    "ACK_steps": 294,
+    "ACK_last_success": true,
+    "checker_records": 295,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0170",
+    "ACK_steps": 450,
+    "ACK_last_success": false,
+    "checker_records": 451,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0171",
+    "ACK_steps": 20,
+    "ACK_last_success": true,
+    "checker_records": 21,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0172",
+    "ACK_steps": 193,
+    "ACK_last_success": true,
+    "checker_records": 194,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0173",
+    "ACK_steps": 328,
+    "ACK_last_success": true,
+    "checker_records": 329,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0174",
+    "ACK_steps": 450,
+    "ACK_last_success": false,
+    "checker_records": 451,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0175",
+    "ACK_steps": 450,
+    "ACK_last_success": false,
+    "checker_records": 451,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0176",
+    "ACK_steps": 450,
+    "ACK_last_success": false,
+    "checker_records": 451,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0177",
+    "ACK_steps": 275,
+    "ACK_last_success": true,
+    "checker_records": 276,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0178",
+    "ACK_steps": 450,
+    "ACK_last_success": false,
+    "checker_records": 451,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0179",
+    "ACK_steps": 450,
+    "ACK_last_success": false,
+    "checker_records": 451,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0180",
+    "ACK_steps": 600,
+    "ACK_last_success": false,
+    "checker_records": 601,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0181",
+    "ACK_steps": 600,
+    "ACK_last_success": false,
+    "checker_records": 601,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0185",
+    "ACK_steps": 2052,
+    "ACK_last_success": true,
+    "checker_records": 2053,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0186",
+    "ACK_steps": 3000,
+    "ACK_last_success": false,
+    "checker_records": 3001,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0187",
+    "ACK_steps": 3000,
+    "ACK_last_success": false,
+    "checker_records": 3001,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0188",
+    "ACK_steps": 1800,
+    "ACK_last_success": false,
+    "checker_records": 1801,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0189",
+    "ACK_steps": 1109,
+    "ACK_last_success": true,
+    "checker_records": 1110,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0190",
+    "ACK_steps": 2400,
+    "ACK_last_success": false,
+    "checker_records": 2401,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0191",
+    "ACK_steps": 2072,
+    "ACK_last_success": true,
+    "checker_records": 2073,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0192",
+    "ACK_steps": 1800,
+    "ACK_last_success": false,
+    "checker_records": 1801,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0193",
+    "ACK_steps": 1800,
+    "ACK_last_success": false,
+    "checker_records": 1801,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0194",
+    "ACK_steps": 1800,
+    "ACK_last_success": false,
+    "checker_records": 1801,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0195",
+    "ACK_steps": 1350,
+    "ACK_last_success": false,
+    "checker_records": 1351,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0196",
+    "ACK_steps": 1350,
+    "ACK_last_success": false,
+    "checker_records": 1351,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0197",
+    "ACK_steps": 892,
+    "ACK_last_success": true,
+    "checker_records": 893,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0198",
+    "ACK_steps": 1200,
+    "ACK_last_success": false,
+    "checker_records": 1201,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0199",
+    "ACK_steps": 989,
+    "ACK_last_success": true,
+    "checker_records": 990,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0200",
+    "ACK_steps": 2400,
+    "ACK_last_success": false,
+    "checker_records": 2401,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0201",
+    "ACK_steps": 2400,
+    "ACK_last_success": false,
+    "checker_records": 2401,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0202",
+    "ACK_steps": 1961,
+    "ACK_last_success": true,
+    "checker_records": 1962,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0203",
+    "ACK_steps": 1000,
+    "ACK_last_success": true,
+    "checker_records": 1001,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0204",
+    "ACK_steps": 2100,
+    "ACK_last_success": false,
+    "checker_records": 2101,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0205",
+    "ACK_steps": 2100,
+    "ACK_last_success": false,
+    "checker_records": 2101,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0206",
+    "ACK_steps": 2100,
+    "ACK_last_success": false,
+    "checker_records": 2101,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0207",
+    "ACK_steps": 1970,
+    "ACK_last_success": true,
+    "checker_records": 1971,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0208",
+    "ACK_steps": 1022,
+    "ACK_last_success": true,
+    "checker_records": 1023,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0209",
+    "ACK_steps": 2094,
+    "ACK_last_success": true,
+    "checker_records": 2095,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0212",
+    "ACK_steps": 2550,
+    "ACK_last_success": false,
+    "checker_records": 2551,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0213",
+    "ACK_steps": 2550,
+    "ACK_last_success": false,
+    "checker_records": 2551,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0214",
+    "ACK_steps": 2348,
+    "ACK_last_success": true,
+    "checker_records": 2349,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0215",
+    "ACK_steps": 2550,
+    "ACK_last_success": false,
+    "checker_records": 2551,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0219",
+    "ACK_steps": 3000,
+    "ACK_last_success": false,
+    "checker_records": 3001,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0220",
+    "ACK_steps": 3000,
+    "ACK_last_success": false,
+    "checker_records": 3001,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0221",
+    "ACK_steps": 1800,
+    "ACK_last_success": false,
+    "checker_records": 1801,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0222",
+    "ACK_steps": 1800,
+    "ACK_last_success": false,
+    "checker_records": 1801,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0223",
+    "ACK_steps": 1212,
+    "ACK_last_success": true,
+    "checker_records": 1213,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0224",
+    "ACK_steps": 1573,
+    "ACK_last_success": true,
+    "checker_records": 1574,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0225",
+    "ACK_steps": 2400,
+    "ACK_last_success": false,
+    "checker_records": 2401,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0226",
+    "ACK_steps": 2400,
+    "ACK_last_success": false,
+    "checker_records": 2401,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0227",
+    "ACK_steps": 1800,
+    "ACK_last_success": false,
+    "checker_records": 1801,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0228",
+    "ACK_steps": 1800,
+    "ACK_last_success": false,
+    "checker_records": 1801,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0229",
+    "ACK_steps": 1350,
+    "ACK_last_success": false,
+    "checker_records": 1351,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0230",
+    "ACK_steps": 1350,
+    "ACK_last_success": false,
+    "checker_records": 1351,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0231",
+    "ACK_steps": 1350,
+    "ACK_last_success": false,
+    "checker_records": 1351,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0232",
+    "ACK_steps": 1200,
+    "ACK_last_success": false,
+    "checker_records": 1201,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0233",
+    "ACK_steps": 1200,
+    "ACK_last_success": false,
+    "checker_records": 1201,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0234",
+    "ACK_steps": 2400,
+    "ACK_last_success": false,
+    "checker_records": 2401,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0235",
+    "ACK_steps": 2400,
+    "ACK_last_success": false,
+    "checker_records": 2401,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0236",
+    "ACK_steps": 2400,
+    "ACK_last_success": false,
+    "checker_records": 2401,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0237",
+    "ACK_steps": 2100,
+    "ACK_last_success": false,
+    "checker_records": 2101,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0238",
+    "ACK_steps": 976,
+    "ACK_last_success": true,
+    "checker_records": 977,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0239",
+    "ACK_steps": 2100,
+    "ACK_last_success": false,
+    "checker_records": 2101,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0240",
+    "ACK_steps": 2100,
+    "ACK_last_success": false,
+    "checker_records": 2101,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0241",
+    "ACK_steps": 2100,
+    "ACK_last_success": false,
+    "checker_records": 2101,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0242",
+    "ACK_steps": 818,
+    "ACK_last_success": true,
+    "checker_records": 819,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0243",
+    "ACK_steps": 996,
+    "ACK_last_success": true,
+    "checker_records": 997,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0244",
+    "ACK_steps": 2550,
+    "ACK_last_success": false,
+    "checker_records": 2551,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0001",
+    "ACK_steps": 2550,
+    "ACK_last_success": false,
+    "checker_records": 2551,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0002",
+    "ACK_steps": 2512,
+    "ACK_last_success": true,
+    "checker_records": 2513,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0003",
+    "ACK_steps": 2550,
+    "ACK_last_success": false,
+    "checker_records": 2551,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0004",
+    "ACK_steps": 2550,
+    "ACK_last_success": false,
+    "checker_records": 2551,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0005",
+    "ACK_steps": 2550,
+    "ACK_last_success": false,
+    "checker_records": 2551,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0006",
+    "ACK_steps": 1153,
+    "ACK_last_success": true,
+    "checker_records": 1154,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0007",
+    "ACK_steps": 1138,
+    "ACK_last_success": true,
+    "checker_records": 1139,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0008",
+    "ACK_steps": 510,
+    "ACK_last_success": true,
+    "checker_records": 511,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0009",
+    "ACK_steps": 1500,
+    "ACK_last_success": false,
+    "checker_records": 1501,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0010",
+    "ACK_steps": 514,
+    "ACK_last_success": true,
+    "checker_records": 515,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0011",
+    "ACK_steps": 3472,
+    "ACK_last_success": true,
+    "checker_records": 3473,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0013",
+    "ACK_steps": 3900,
+    "ACK_last_success": false,
+    "checker_records": 3901,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0014",
+    "ACK_steps": 3900,
+    "ACK_last_success": false,
+    "checker_records": 3901,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0015",
+    "ACK_steps": 3900,
+    "ACK_last_success": false,
+    "checker_records": 3901,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0017",
+    "ACK_steps": 3900,
+    "ACK_last_success": false,
+    "checker_records": 3901,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0018",
+    "ACK_steps": 4350,
+    "ACK_last_success": false,
+    "checker_records": 4351,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0019",
+    "ACK_steps": 4350,
+    "ACK_last_success": false,
+    "checker_records": 4351,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0023",
+    "ACK_steps": 3000,
+    "ACK_last_success": false,
+    "checker_records": 3001,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0024",
+    "ACK_steps": 3000,
+    "ACK_last_success": false,
+    "checker_records": 3001,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0025",
+    "ACK_steps": 3000,
+    "ACK_last_success": false,
+    "checker_records": 3001,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0026",
+    "ACK_steps": 1800,
+    "ACK_last_success": false,
+    "checker_records": 1801,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0027",
+    "ACK_steps": 1800,
+    "ACK_last_success": false,
+    "checker_records": 1801,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0028",
+    "ACK_steps": 1800,
+    "ACK_last_success": false,
+    "checker_records": 1801,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0029",
+    "ACK_steps": 2400,
+    "ACK_last_success": false,
+    "checker_records": 2401,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0030",
+    "ACK_steps": 2400,
+    "ACK_last_success": false,
+    "checker_records": 2401,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0031",
+    "ACK_steps": 2400,
+    "ACK_last_success": false,
+    "checker_records": 2401,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0032",
+    "ACK_steps": 1800,
+    "ACK_last_success": false,
+    "checker_records": 1801,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0033",
+    "ACK_steps": 1575,
+    "ACK_last_success": true,
+    "checker_records": 1576,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0037",
+    "ACK_steps": 1937,
+    "ACK_last_success": true,
+    "checker_records": 1938,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0038",
+    "ACK_steps": 4350,
+    "ACK_last_success": false,
+    "checker_records": 4351,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0039",
+    "ACK_steps": 3743,
+    "ACK_last_success": true,
+    "checker_records": 3744,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0040",
+    "ACK_steps": 1650,
+    "ACK_last_success": false,
+    "checker_records": 1651,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0041",
+    "ACK_steps": 1650,
+    "ACK_last_success": false,
+    "checker_records": 1651,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0042",
+    "ACK_steps": 1650,
+    "ACK_last_success": false,
+    "checker_records": 1651,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0043",
+    "ACK_steps": 1650,
+    "ACK_last_success": false,
+    "checker_records": 1651,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0044",
+    "ACK_steps": 1650,
+    "ACK_last_success": false,
+    "checker_records": 1651,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0050",
+    "ACK_steps": 1350,
+    "ACK_last_success": false,
+    "checker_records": 1351,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0051",
+    "ACK_steps": 1350,
+    "ACK_last_success": false,
+    "checker_records": 1351,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0052",
+    "ACK_steps": 1350,
+    "ACK_last_success": false,
+    "checker_records": 1351,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0053",
+    "ACK_steps": 872,
+    "ACK_last_success": true,
+    "checker_records": 873,
+    "checker_last_success": true
+  },
+  {
+    "episode_id": "episode_0054",
+    "ACK_steps": 1200,
+    "ACK_last_success": false,
+    "checker_records": 1201,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0055",
+    "ACK_steps": 1200,
+    "ACK_last_success": false,
+    "checker_records": 1201,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0056",
+    "ACK_steps": 2400,
+    "ACK_last_success": false,
+    "checker_records": 2401,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0064",
+    "ACK_steps": 1800,
+    "ACK_last_success": false,
+    "checker_records": 1801,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0071",
+    "ACK_steps": 2400,
+    "ACK_last_success": false,
+    "checker_records": 2401,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0073",
+    "ACK_steps": 2400,
+    "ACK_last_success": false,
+    "checker_records": 2401,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0074",
+    "ACK_steps": 2100,
+    "ACK_last_success": false,
+    "checker_records": 2101,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0075",
+    "ACK_steps": 2100,
+    "ACK_last_success": false,
+    "checker_records": 2101,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0076",
+    "ACK_steps": 2100,
+    "ACK_last_success": false,
+    "checker_records": 2101,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0077",
+    "ACK_steps": 2100,
+    "ACK_last_success": false,
+    "checker_records": 2101,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0078",
+    "ACK_steps": 2100,
+    "ACK_last_success": false,
+    "checker_records": 2101,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0079",
+    "ACK_steps": 2100,
+    "ACK_last_success": false,
+    "checker_records": 2101,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0080",
+    "ACK_steps": 2400,
+    "ACK_last_success": false,
+    "checker_records": 2401,
+    "checker_last_success": false
+  },
+  {
+    "episode_id": "episode_0081",
+    "ACK_steps": 2400,
+    "ACK_last_success": false,
+    "checker_records": 2401,
+    "checker_last_success": false
+  }
+]

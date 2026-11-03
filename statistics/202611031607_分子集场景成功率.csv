@@ -1,0 +1,4 @@
+cohort,subset,scene_split,model,reasoning_effort,registered_tasks,tasks_with_complete_trajectories,planned,complete_native_episodes,successes,failures,SR,macro_task_SR,original_contract_accepted,original_contract_SR,excluded_policy_stop,original_pending
+atomic_seen_pretrain,Atomic-Seen,pretrain-scene,gpt-6-astra,high,13,13,65,65,38,27,0.5846153846153846,0.5846153846153846,65,0.5846153846153846,0,0
+composite_seen_pretrain,Composite-Seen,pretrain-scene,gpt-6-astra,high,11,11,55,55,16,39,0.2909090909090909,0.29090909090909095,55,0.2909090909090909,0,0
+composite_seen_target,Composite-Seen,target-scene,gpt-6-astra,high,16,15,58,54,10,44,0.18518518518518517,0.1511111111111111,56,0.17857142857142858,2,2

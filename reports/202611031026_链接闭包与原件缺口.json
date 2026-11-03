@@ -1,0 +1,243 @@
+{
+  "files": 1730,
+  "bytes": 234530706,
+  "dereferenced": [
+    {
+      "source": "<source>/runs/20261008T023929Z_pretrain_resume_native_cost_audit/formal/WeighIngredients/seed2026106512/attempt_00/codex/agent",
+      "target": "<source>/runs/20261008T023929Z_pretrain_resume_native_cost_audit/_tmp/gpt6direct_policy_tmn53g9_",
+      "archive_relative": "runs/20261008T023929Z_pretrain_resume_native_cost_audit/formal/WeighIngredients/seed2026106512/attempt_00/codex/agent",
+      "status": "DEREFERENCED_AS_REGULAR_RECORD_FILES"
+    },
+    {
+      "source": "<source>/runs/20261013T093916Z_seen_target_resume_after_interrupt/formal/StoreLeftoversInBowl/seed2026109101/attempt_00/codex/agent",
+      "target": "<source>/gpt6direct_policy_fik2sgjg",
+      "archive_relative": "runs/20261013T093916Z_seen_target_resume_after_interrupt/formal/StoreLeftoversInBowl/seed2026109101/attempt_00/codex/agent",
+      "status": "DEREFERENCED_AS_REGULAR_RECORD_FILES"
+    },
+    {
+      "source": "<source>/runs/20261022T082453Z_composite_unseen_target_gpu3/formal/ArrangeBreadBasket/seed2026106510/attempt_01/codex/agent",
+      "target": "<source>/runs/20261022T082453Z_composite_unseen_target_gpu3/_tmp/gpt6direct_policy_v5pu40g_",
+      "archive_relative": "runs/20261022T082453Z_composite_unseen_target_gpu3/formal/ArrangeBreadBasket/seed2026106510/attempt_01/codex/agent",
+      "status": "DEREFERENCED_AS_REGULAR_RECORD_FILES"
+    },
+    {
+      "source": "<source>/runs/20261024T053905Z_composite_unseen_target_remaining53/formal/GarnishPancake/seed2026106514/attempt_00/codex/agent",
+      "target": "<source>/runs/20261024T053905Z_composite_unseen_target_remaining53/_tmp/gpt6direct_policy_m_js7iqv",
+      "archive_relative": "runs/20261024T053905Z_composite_unseen_target_remaining53/formal/GarnishPancake/seed2026106514/attempt_00/codex/agent",
+      "status": "DEREFERENCED_AS_REGULAR_RECORD_FILES"
+    },
+    {
+      "source": "<source>/runs/20261025T052927Z_composite_unseen_target_resume45_rescue69_coexist/formal/WashFruitColander/seed2026106512/attempt_00/codex/agent",
+      "target": "<source>/gpt6direct_policy_rz4yrq59",
+      "archive_relative": "runs/20261025T052927Z_composite_unseen_target_resume45_rescue69_coexist/formal/WashFruitColander/seed2026106512/attempt_00/codex/agent",
+      "status": "DEREFERENCED_AS_REGULAR_RECORD_FILES"
+    },
+    {
+      "source": "<source>/runs/ballpark_20261006/WaffleReheat/seed2026106510/codex/agent",
+      "target": "<source>/runs/ballpark_20261006/_tmp/gpt6direct_policy_112qo6mg",
+      "archive_relative": "runs/ballpark_20261006/WaffleReheat/seed2026106510/codex/agent",
+      "status": "DEREFERENCED_AS_REGULAR_RECORD_FILES"
+    }
+  ],
+  "missing_original_targets": [
+    {
+      "source": "<source>/runs/20261006_high_concurrency_sse_v3/formal/CategorizeCondiments/seed2026106513/attempt_01/codex/agent",
+      "target": "<source>/gpt6direct_policy_60ddzxr0",
+      "status": "ORIGINAL_TARGET_MISSING"
+    }
+  ],
+  "assets": [
+    {
+      "source": "<source>/runs/20261005_paper_reconstruction_v1/frozen/vendor/robocasa_v1_0/robocasa/models/assets",
+      "target": "<source>/robocasa365/assets",
+      "status": "DOWNLOADABLE_ASSET_NOT_EMBEDDED"
+    },
+    {
+      "source": "<source>/runs/20261006_high_concurrency_sse_v3/frozen/vendor/robocasa_v1_0/robocasa/models/assets",
+      "target": "<source>/robocasa365/assets",
+      "status": "DOWNLOADABLE_ASSET_NOT_EMBEDDED"
+    },
+    {
+      "source": "<source>/runs/20261006_high_concurrency_v2/frozen/vendor/robocasa_v1_0/robocasa/models/assets",
+      "target": "<source>/robocasa365/assets",
+      "status": "DOWNLOADABLE_ASSET_NOT_EMBEDDED"
+    },
+    {
+      "source": "<source>/runs/20261007T115930Z_reboot_dual_resume/frozen/vendor/robocasa_v1_0/robocasa/models/assets",
+      "target": "<source>/robocasa365/assets",
+      "status": "DOWNLOADABLE_ASSET_NOT_EMBEDDED"
+    },
+    {
+      "source": "<source>/runs/20261007T120643Z_reboot_dual_resume/frozen/vendor/robocasa_v1_0/robocasa/models/assets",
+      "target": "<source>/robocasa365/assets",
+      "status": "DOWNLOADABLE_ASSET_NOT_EMBEDDED"
+    },
+    {
+      "source": "<source>/runs/20261007T121455Z_pretrain_explicit_resume/frozen/vendor/robocasa_v1_0/robocasa/models/assets",
+      "target": "<source>/robocasa365/assets",
+      "status": "DOWNLOADABLE_ASSET_NOT_EMBEDDED"
+    },
+    {
+      "source": "<source>/runs/20261007T122413Z_pretrain_serial_fallback/frozen/vendor/robocasa_v1_0/robocasa/models/assets",
+      "target": "<source>/robocasa365/assets",
+      "status": "DOWNLOADABLE_ASSET_NOT_EMBEDDED"
+    },
+    {
+      "source": "<source>/runs/20261008T023929Z_pretrain_resume_native_cost_audit/frozen/vendor/robocasa_v1_0/robocasa/models/assets",
+      "target": "<source>/robocasa365/assets",
+      "status": "DOWNLOADABLE_ASSET_NOT_EMBEDDED"
+    },
+    {
+      "source": "<source>/runs/20261008T0818Z_reboot_serial_resume/frozen/vendor/robocasa_v1_0/robocasa/models/assets",
+      "target": "<source>/robocasa365/assets",
+      "status": "DOWNLOADABLE_ASSET_NOT_EMBEDDED"
+    },
+    {
+      "source": "<source>/runs/20261008T162327Z_composite_seen_target/frozen/vendor/robocasa_v1_0/robocasa/models/assets",
+      "target": "<source>/robocasa365/assets",
+      "status": "DOWNLOADABLE_ASSET_NOT_EMBEDDED"
+    },
+    {
+      "source": "<source>/runs/20261008T165834Z_composite_seen_target/frozen/vendor/robocasa_v1_0/robocasa/models/assets",
+      "target": "<source>/robocasa365/assets",
+      "status": "DOWNLOADABLE_ASSET_NOT_EMBEDDED"
+    },
+    {
+      "source": "<source>/runs/20261008T165956Z_composite_seen_target/frozen/vendor/robocasa_v1_0/robocasa/models/assets",
+      "target": "<source>/robocasa365/assets",
+      "status": "DOWNLOADABLE_ASSET_NOT_EMBEDDED"
+    },
+    {
+      "source": "<source>/runs/20261009T073712Z_seen_target_resume/frozen/vendor/robocasa_v1_0/robocasa/models/assets",
+      "target": "<source>/robocasa365/assets",
+      "status": "DOWNLOADABLE_ASSET_NOT_EMBEDDED"
+    },
+    {
+      "source": "<source>/runs/20261009T135235Z_seen_target_quota_resume/frozen/vendor/robocasa_v1_0/robocasa/models/assets",
+      "target": "<source>/robocasa365/assets",
+      "status": "DOWNLOADABLE_ASSET_NOT_EMBEDDED"
+    },
+    {
+      "source": "<source>/runs/20261011T084021Z_seen_target_resume_after_interrupt/frozen/vendor/robocasa_v1_0/robocasa/models/assets",
+      "target": "<source>/robocasa365/assets",
+      "status": "DOWNLOADABLE_ASSET_NOT_EMBEDDED"
+    },
+    {
+      "source": "<source>/runs/20261011T085325Z_seen_target_resume_after_interrupt/frozen/vendor/robocasa_v1_0/robocasa/models/assets",
+      "target": "<source>/robocasa365/assets",
+      "status": "DOWNLOADABLE_ASSET_NOT_EMBEDDED"
+    },
+    {
+      "source": "<source>/runs/20261011T090719Z_seen_target_resume_after_interrupt/frozen/vendor/robocasa_v1_0/robocasa/models/assets",
+      "target": "<source>/robocasa365/assets",
+      "status": "DOWNLOADABLE_ASSET_NOT_EMBEDDED"
+    },
+    {
+      "source": "<source>/runs/20261011T145002Z_seen_target_resume_after_provider_stop/frozen/vendor/robocasa_v1_0/robocasa/models/assets",
+      "target": "<source>/robocasa365/assets",
+      "status": "DOWNLOADABLE_ASSET_NOT_EMBEDDED"
+    },
+    {
+      "source": "<source>/runs/20261012T063316Z_seen_target_resume_after_interrupt/frozen/vendor/robocasa_v1_0/robocasa/models/assets",
+      "target": "<source>/robocasa365/assets",
+      "status": "DOWNLOADABLE_ASSET_NOT_EMBEDDED"
+    },
+    {
+      "source": "<source>/runs/20261012T065843Z_seen_target_resume_after_interrupt/frozen/vendor/robocasa_v1_0/robocasa/models/assets",
+      "target": "<source>/robocasa365/assets",
+      "status": "DOWNLOADABLE_ASSET_NOT_EMBEDDED"
+    },
+    {
+      "source": "<source>/runs/20261012T084257Z_seen_target_resume_after_interrupt/frozen/vendor/robocasa_v1_0/robocasa/models/assets",
+      "target": "<source>/robocasa365/assets",
+      "status": "DOWNLOADABLE_ASSET_NOT_EMBEDDED"
+    },
+    {
+      "source": "<source>/runs/20261013T090854Z_seen_target_resume_after_interrupt/frozen/vendor/robocasa_v1_0/robocasa/models/assets",
+      "target": "<source>/robocasa365/assets",
+      "status": "DOWNLOADABLE_ASSET_NOT_EMBEDDED"
+    },
+    {
+      "source": "<source>/runs/20261013T092614Z_seen_target_resume_after_interrupt/frozen/vendor/robocasa_v1_0/robocasa/models/assets",
+      "target": "<source>/robocasa365/assets",
+      "status": "DOWNLOADABLE_ASSET_NOT_EMBEDDED"
+    },
+    {
+      "source": "<source>/runs/20261013T093916Z_seen_target_resume_after_interrupt/frozen/vendor/robocasa_v1_0/robocasa/models/assets",
+      "target": "<source>/robocasa365/assets",
+      "status": "DOWNLOADABLE_ASSET_NOT_EMBEDDED"
+    },
+    {
+      "source": "<source>/runs/20261016_seen_target_gpu3_final2_resume/frozen/vendor/robocasa_v1_0/robocasa/models/assets",
+      "target": "<source>/robocasa365/assets",
+      "status": "DOWNLOADABLE_ASSET_NOT_EMBEDDED"
+    },
+    {
+      "source": "<source>/runs/20261016_seen_target_gpu3_priority_resume/frozen/vendor/robocasa_v1_0/robocasa/models/assets",
+      "target": "<source>/robocasa365/assets",
+      "status": "DOWNLOADABLE_ASSET_NOT_EMBEDDED"
+    },
+    {
+      "source": "<source>/runs/20261016_seen_target_gpu3_retry42_resume/frozen/vendor/robocasa_v1_0/robocasa/models/assets",
+      "target": "<source>/robocasa365/assets",
+      "status": "DOWNLOADABLE_ASSET_NOT_EMBEDDED"
+    },
+    {
+      "source": "<source>/runs/20261022T082453Z_composite_unseen_target_gpu3/frozen/vendor/robocasa_v1_0/robocasa/models/assets",
+      "target": "<source>/robocasa365/assets",
+      "status": "DOWNLOADABLE_ASSET_NOT_EMBEDDED"
+    },
+    {
+      "source": "<source>/runs/20261022T122839Z_composite_unseen_target_gpu3/frozen/vendor/robocasa_v1_0/robocasa/models/assets",
+      "target": "<source>/robocasa365/assets",
+      "status": "DOWNLOADABLE_ASSET_NOT_EMBEDDED"
+    },
+    {
+      "source": "<source>/runs/20261022T134145Z_composite_unseen_target_full80/frozen/vendor/robocasa_v1_0/robocasa/models/assets",
+      "target": "<source>/robocasa365/assets",
+      "status": "DOWNLOADABLE_ASSET_NOT_EMBEDDED"
+    },
+    {
+      "source": "<source>/runs/20261023T033920Z_composite_unseen_target_company_resume/frozen/vendor/robocasa_v1_0/robocasa/models/assets",
+      "target": "<source>/robocasa365/assets",
+      "status": "DOWNLOADABLE_ASSET_NOT_EMBEDDED"
+    },
+    {
+      "source": "<source>/runs/20261023T162029Z_composite_unseen_target_after_takeover/frozen/vendor/robocasa_v1_0/robocasa/models/assets",
+      "target": "<source>/robocasa365/assets",
+      "status": "DOWNLOADABLE_ASSET_NOT_EMBEDDED"
+    },
+    {
+      "source": "<source>/runs/20261024T053905Z_composite_unseen_target_remaining53/frozen/vendor/robocasa_v1_0/robocasa/models/assets",
+      "target": "<source>/robocasa365/assets",
+      "status": "DOWNLOADABLE_ASSET_NOT_EMBEDDED"
+    },
+    {
+      "source": "<source>/runs/20261025T052927Z_composite_unseen_target_resume45_rescue69_coexist/frozen/vendor/robocasa_v1_0/robocasa/models/assets",
+      "target": "<source>/robocasa365/assets",
+      "status": "DOWNLOADABLE_ASSET_NOT_EMBEDDED"
+    },
+    {
+      "source": "<source>/runs/20261026T181500Z_composite_unseen_target_harnesscl_coexist_resume8/frozen/vendor/robocasa_v1_0/robocasa/models/assets",
+      "target": "<source>/robocasa365/assets",
+      "status": "DOWNLOADABLE_ASSET_NOT_EMBEDDED"
+    }
+  ],
+  "internal_links": [
+    {
+      "link": "runs/20261010T_resume_seen_target_pending22/frozen",
+      "target": "runs/20261009T135235Z_seen_target_quota_resume/frozen",
+      "status": "INTERNAL_TARGET_ALREADY_PACKED"
+    },
+    {
+      "link": "runs/20261024T101630Z_composite_unseen_target_shared4_resume51/frozen",
+      "target": "runs/20261024T053905Z_composite_unseen_target_remaining53/frozen",
+      "status": "INTERNAL_TARGET_ALREADY_PACKED"
+    },
+    {
+      "link": "<source>/reports/v1/20261002/k1_direct_resume/inherited_controller_v2/private_sim",
+      "target": "<source>/SPHarness/runs/harness_k1_direct_engineering_20261002_v2/private_sim",
+      "status": "EXTRA_REPORT_ALIAS_TARGET_ALREADY_PACKED_IN_HISTORICAL_RUN"
+    }
+  ]
+}

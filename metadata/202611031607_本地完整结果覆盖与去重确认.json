@@ -1,0 +1,15 @@
+{
+  "candidate_result_metadata_files_reviewed": 558,
+  "original_attempts_reviewed": 244,
+  "complete_native_episodes_published": 174,
+  "byte_identical_mirror_results_deduplicated": 109,
+  "published_trajectory_files": 46098,
+  "published_RGB_files": 22044,
+  "excluded_engineering_attempts": 2,
+  "excluded_incomplete_or_infrastructure_attempts": 66,
+  "excluded_PolicyStop_outcomes": 2,
+  "other_host_summary_included": false,
+  "source_files_modified": false,
+  "github_uploaded": false,
+  "numeric_and_privacy_audit": "Published member hashes are unchanged from the independently audited sanitized superset; all numeric JSON/JSONL values and binary arrays/images were checked against sources."
+}

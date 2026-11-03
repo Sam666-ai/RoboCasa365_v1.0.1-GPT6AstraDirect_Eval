@@ -1,0 +1,68 @@
+[
+  {
+    "file": "release_assets/202611031607_atomic_seen_pretrain_part001.tar.gz",
+    "bytes": 485778732,
+    "sha256": "285faf43666d4ce0dad9d78dc7efa7e7da410d0016e7fbe6a4b2c3ee9521a1b8",
+    "members": 4563
+  },
+  {
+    "file": "release_assets/202611031607_atomic_seen_pretrain_part002.tar.gz",
+    "bytes": 480901994,
+    "sha256": "c31c78dfd933b6cfe4346535cc0448dc0bb3efd9c91e2af57e89c38732373ad8",
+    "members": 4673
+  },
+  {
+    "file": "release_assets/202611031607_atomic_seen_pretrain_part003.tar.gz",
+    "bytes": 84447394,
+    "sha256": "de0e8340406ebfc4470e941fa3945583639cc78547faa81e7bc6809448797249",
+    "members": 871
+  },
+  {
+    "file": "release_assets/202611031607_composite_seen_pretrain_part001.tar.gz",
+    "bytes": 279633972,
+    "sha256": "4d62a80a7a012f314f1a1289f1b9301cbba0d2b63c33fc65c43d94dbc1aebeaa",
+    "members": 1807
+  },
+  {
+    "file": "release_assets/202611031607_composite_seen_pretrain_part002.tar.gz",
+    "bytes": 517269934,
+    "sha256": "3cd915009a740b71dc486905c096c8b0bfec3c3b5ef015804b44f0ad45e41a25",
+    "members": 5286
+  },
+  {
+    "file": "release_assets/202611031607_composite_seen_pretrain_part003.tar.gz",
+    "bytes": 503875904,
+    "sha256": "a063abf1c0f553ae74381aeb596b084d0b08e4d68027d74197a5701db4380177",
+    "members": 5628
+  },
+  {
+    "file": "release_assets/202611031607_composite_seen_pretrain_part004.tar.gz",
+    "bytes": 414355208,
+    "sha256": "b9dd781eae479c4599fcd2f230724cc25a19487eb574dc901dff19072c9ebfd4",
+    "members": 2709
+  },
+  {
+    "file": "release_assets/202611031607_composite_seen_pretrain_part005.tar.gz",
+    "bytes": 418314564,
+    "sha256": "515a7de16498243411687012af5eab03154d9317bf791d4a69b91b77dbc76759",
+    "members": 4212
+  },
+  {
+    "file": "release_assets/202611031607_composite_seen_pretrain_part006.tar.gz",
+    "bytes": 516307608,
+    "sha256": "471e7c22d62cba545d8653d9d4966a6dea3f4a49f28f1708ed68748fb291a999",
+    "members": 5470
+  },
+  {
+    "file": "release_assets/202611031607_composite_seen_pretrain_part007.tar.gz",
+    "bytes": 389609300,
+    "sha256": "8254472ca9277d8f75a3a9b1eebaebf730d66fc1c14f274d7c4a15a4ff89f9cc",
+    "members": 3550
+  },
+  {
+    "file": "release_assets/202611031607_composite_seen_target_part001.tar.gz",
+    "bytes": 29289520,
+    "sha256": "37fd1b8e637c0baef4395f313de09c80a58b4a28ec306e3acf1998f7e6779738",
+    "members": 7329
+  }
+]
